@@ -1,0 +1,154 @@
+{
+    "questions": [
+        {
+            "question": "What is the largest planet in our solar system?",
+            "options": [
+                "Earth",
+                "Mars",
+                "Jupiter",
+                "Saturn"
+            ],
+            "answer": "Jupiter"
+        },
+        {
+            "question": "Which element has the chemical symbol 'O'?",
+            "options": [
+                "Osmium",
+                "Oxygen",
+                "Gold",
+                "Oganesson"
+            ],
+            "answer": "Oxygen"
+        },
+        {
+            "question": "Who wrote 'To Kill a Mockingbird'?",
+            "options": [
+                "Harper Lee",
+                "Mark Twain",
+                "Ernest Hemingway",
+                "F. Scott Fitzgerald"
+            ],
+            "answer": "Harper Lee"
+        },
+        {
+            "question": "What is the boiling point of water in Celsius?",
+            "options": [
+                "90",
+                "100",
+                "110",
+                "120"
+            ],
+            "answer": "100"
+        },
+        {
+            "question": "Which country is known as the Land of the Rising Sun?",
+            "options": [
+                "China",
+                "Thailand",
+                "Japan",
+                "South Korea"
+            ],
+            "answer": "Japan"
+        },
+        {
+            "question": "What is the hardest natural substance on Earth?",
+            "options": [
+                "Gold",
+                "Iron",
+                "Diamond",
+                "Platinum"
+            ],
+            "answer": "Diamond"
+        },
+        {
+            "question": "Which planet is closest to the sun?",
+            "options": [
+                "Earth",
+                "Venus",
+                "Mercury",
+                "Mars"
+            ],
+            "answer": "Mercury"
+        },
+        {
+            "question": "Who painted the Mona Lisa?",
+            "options": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Leonardo da Vinci",
+                "Michelangelo"
+            ],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "What is the capital of Canada?",
+            "options": [
+                "Toronto",
+                "Ottawa",
+                "Montreal",
+                "Vancouver"
+            ],
+            "answer": "Ottawa"
+        },
+        {
+            "question": "How many continents are there on Earth?",
+            "options": [
+                "5",
+                "6",
+                "7",
+                "8"
+            ],
+            "answer": "7"
+        },
+        {
+            "question": "Which gas do plants absorb from the atmosphere?",
+            "options": [
+                "Oxygen",
+                "Carbon Dioxide",
+                "Nitrogen",
+                "Hydrogen"
+            ],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "question": "What is the smallest prime number?",
+            "options": [
+                "0",
+                "1",
+                "2",
+                "3"
+            ],
+            "answer": "2"
+        },
+        {
+            "question": "In which year did the Titanic sink?",
+            "options": [
+                "1910",
+                "1912",
+                "1914",
+                "1916"
+            ],
+            "answer": "1912"
+        },
+        {
+            "question": "What is the square root of 64?",
+            "options": [
+                "6",
+                "7",
+                "8",
+                "9"
+            ],
+            "answer": "8"
+        },
+        {
+            "question": "Who discovered penicillin?",
+            "options": [
+                "Marie Curie",
+                "Alexander Fleming",
+                "Isaac Newton",
+                "Albert Einstein"
+            ],
+            "answer": "Alexander Fleming"
+        }
+    ]
+}
